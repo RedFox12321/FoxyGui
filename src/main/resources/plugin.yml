@@ -1,0 +1,6 @@
+name: FoxyGui
+version: '1.0.0'
+main: a4g.foxygui.Main
+api-version: '1.21'
+authors: [ Alexandre Gameiro ]
+description: An API to help create custom inventories
